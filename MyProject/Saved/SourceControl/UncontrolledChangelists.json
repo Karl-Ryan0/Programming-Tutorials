@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/BZ/BAQ89JG367ET4JLCMSHZ3T.uasset",
+				"D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/E/KJ/K04WOD33CFHTX0R3H6FITD.uasset",
+				"D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Levels/MAP_TestLevel.umap",
+				"D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/BP_Objective_Point.uasset",
 				"C:/Users/karlt/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Production/Levels/MAP_Test/3/Y1/0PTS2P88P4VQW2NSMLPHKL.uasset",
 				"C:/Users/karlt/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Production/Levels/MAP_Test/5/32/XZ7B674XNH8IB6W2DQMWF1.uasset",
 				"C:/Users/karlt/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/Production/Levels/MAP_Test/2/35/38WX77Y9ER6ZI1BHM6NPYR.uasset",

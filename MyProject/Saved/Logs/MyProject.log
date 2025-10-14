@@ -3238,3 +3238,643 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.14-17.00.19:110][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5830.904785
 [2025.10.14-17.00.20:109][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.14-17.00.20:109][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5831.571777, Update Interval: 321.804871
+[2025.10.14-17.00.45:444][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.00.45:444][842]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.00.45:444][842]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_97
+[2025.10.14-17.00.48:349][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.14-17.00.48:351][166]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.14-17.01.35:031][373]Cmd: SELECT NONE
+[2025.10.14-17.02.21:815][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.02.21:815][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.02.21:815][366]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_98
+[2025.10.14-17.02.25:300][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-17.02.25:301][752]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.14-17.02.25:304][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.02.25:305][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.02.25:305][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_1840911835
+[2025.10.14-17.02.59:910][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.02.59:910][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.02.59:910][579]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_99
+[2025.10.14-17.03.01:389][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-17.03.01:390][739]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.14-17.03.01:394][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.03.01:394][739]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.03.01:395][739]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_1877000836
+[2025.10.14-17.03.19:725][774]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-17.03.19:729][774]LogContentBundle: [MAP_TestLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.14-17.03.19:729][774]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' started...
+[2025.10.14-17.03.19:730][774]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' took 871 us (total: 3.545 ms)
+[2025.10.14-17.03.19:731][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-17.03.19:767][774]LogPlayLevel: Creating play world package: /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.14-17.03.19:770][774]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.14-17.03.19:771][774]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 521 us (total: 1.594 ms)
+[2025.10.14-17.03.19:771][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003701s)
+[2025.10.14-17.03.19:771][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel to /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel (0.003736s)
+[2025.10.14-17.03.19:786][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.14-17.03.19:787][774]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_TestLevel
+[2025.10.14-17.03.19:788][774]LogWorldPartition: ULevel::OnLevelLoaded(MAP_TestLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.14-17.03.19:788][774]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.14-17.03.19:788][774]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.14-17.03.19:788][774]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.14-17.03.19:789][774]LogWorldPartition: Display: WorldPartition initialize took 859 us (total: 348.811 ms)
+[2025.10.14-17.03.19:789][774]LogPlayLevel: PIE: World Init took: (0.002258s)
+[2025.10.14-17.03.19:790][774]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-17.03.19:790][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-17.03.19:790][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-17.03.19:790][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-17.03.19:790][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-17.03.19:790][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-17.03.19:792][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-17.03.19:808][774]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.14-17.03.19:808][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-17.03.19:808][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-17.03.19:808][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-17.03.19:809][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.14-17.03.19:809][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.14-17.03.19:810][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.14-17.03.19:810][774]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.14-17.03.19:810][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.14-17.03.19:810][774]LogAudio: Display: Audio Device (ID: 6) registered with world 'MAP_TestLevel'.
+[2025.10.14-17.03.19:810][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.14-17.03.19:813][774]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.14-17.03.19:815][774]LogWorld: Bringing World /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel up for play (max tick rate 0) at 2025.10.14-18.03.19
+[2025.10.14-17.03.19:815][774]LogWorld: Bringing up level for play took: 0.001123
+[2025.10.14-17.03.19:817][774]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.10.14-17.03.19:822][774]LogScript: Warning: Accessed None trying to read (real) property TriggerVolume_UAID_D85ED3AE8664719602_1422345783_ExecuteUbergraph_MAP_TestLevel_RefProperty in MAP_TestLevel_C
+	MAP_TestLevel_C /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel:PersistentLevel.MAP_TestLevel_C_3
+	Function /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel_C:ExecuteUbergraph_MAP_TestLevel:00A7
+[2025.10.14-17.03.19:822][774]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property TriggerVolume_UAID_D85ED3AE8664719602_1422345783_ExecuteUbergraph_MAP_TestLevel_RefProperty in MAP_TestLevel_C". Node:  Bind Event to On Actor Begin Overlap Graph:  EventGraph Function:  Execute Ubergraph MAP Test Level Blueprint:  MAP_TestLevel
+[2025.10.14-17.03.19:822][774]PIE: Server logged in
+[2025.10.14-17.03.19:824][774]PIE: Play in editor total start time 0.094 seconds.
+[2025.10.14-17.03.19:864][775]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.14-17.03.48:548][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-17.03.48:548][657]LogWorld: BeginTearingDown for /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.14-17.03.48:548][657]LogWorld: UWorld::CleanupWorld for MAP_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-17.03.48:548][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-17.03.48:548][657]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel
+[2025.10.14-17.03.48:550][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-17.03.48:552][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-17.03.48:565][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-17.03.48:566][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.14-17.03.48:566][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.14-17.03.48:568][657]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.14-17.03.48:572][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.14-17.03.48:703][658]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.10.14-17.03.51:781][903]LogSlate: Window 'Message Log' being destroyed
+[2025.10.14-17.03.51:814][903]LogSlate: Window 'Message Log' being destroyed
+[2025.10.14-17.05.05:392][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.05:392][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.05:392][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_100
+[2025.10.14-17.05.06:924][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.14-17.05.06:925][502]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.10.14-17.05.06:928][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.06:928][502]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.06:930][502]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_2002534837
+[2025.10.14-17.05.38:669][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.38:669][ 97]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.38:670][ 97]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_101
+[2025.10.14-17.05.46:027][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.14-17.05.46:028][903]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.10.14-17.05.46:031][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.46:031][903]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.05.46:033][903]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_2041637838
+[2025.10.14-17.06.20:614][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6192.388672
+[2025.10.14-17.06.24:027][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.06.24:027][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6195.792480, Update Interval: 340.786163
+[2025.10.14-17.06.33:093][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.06.33:093][235]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.06.33:094][235]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_102
+[2025.10.14-17.06.38:672][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.14-17.06.38:673][871]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.14-17.06.38:677][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.06.38:677][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-17.06.38:678][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_2094283839
+[2025.10.14-17.06.58:548][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.06.58:548][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.06.58:548][ 77]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_103
+[2025.10.14-17.07.00:071][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-17.07.00:072][238]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.14-17.07.00:075][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.07.00:075][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-17.07.00:077][238]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664659802_2115681840
+[2025.10.14-17.08.15:952][635]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.14-17.08.15:955][635]LogStaticMesh: Display: Building static mesh SM_AssetPlatform (Required Memory Estimate: 5.81496 MB)...
+[2025.10.14-17.08.15:972][635]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-17.08.16:086][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-17.08.16:086][636]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-17.08.16:086][636]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_104
+[2025.10.14-17.08.18:579][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.14-17.08.18:580][899]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.10.14-17.08.18:583][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-17.08.18:583][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-17.08.18:585][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664669802_1120448017
+[2025.10.14-17.08.43:047][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-17.08.43:101][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.14-17.08.43:120][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.14-17.08.43:140][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.14-17.08.43:141][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/0S/BLQP089FSWCA6BGURLD8MQ
+[2025.10.14-17.08.43:142][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BLQP089FSWCA6BGURLD8MQC232C88E46BC26A84DD61082DD4BBBC9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/C/0S/BLQP089FSWCA6BGURLD8MQ.uasset'
+[2025.10.14-17.08.43:143][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/9/QD/HB9YBL5EKH1PSG05AT54TR
+[2025.10.14-17.08.43:143][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/HB9YBL5EKH1PSG05AT54TR02FA5FF8476492FDAD4D0CBD25A25B38.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/9/QD/HB9YBL5EKH1PSG05AT54TR.uasset'
+[2025.10.14-17.08.43:144][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9O/K0VGH76B0GVDGHNCZRYWFN
+[2025.10.14-17.08.43:144][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/K0VGH76B0GVDGHNCZRYWFNB2D1D8654A5453C168A175B6D18A508E.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9O/K0VGH76B0GVDGHNCZRYWFN.uasset'
+[2025.10.14-17.08.43:146][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/17/0L3FUAZIY24BJ8SLNYJM96
+[2025.10.14-17.08.43:146][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/0L3FUAZIY24BJ8SLNYJM969809437547101F5A09030AB7FC422CD0.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/17/0L3FUAZIY24BJ8SLNYJM96.uasset'
+[2025.10.14-17.08.43:147][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/WV/6XI0TWSSR5PX38G9SXA39M
+[2025.10.14-17.08.43:147][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/6XI0TWSSR5PX38G9SXA39ME3D344AC49DFEA20AC4A25BF2DE6EEEC.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/WV/6XI0TWSSR5PX38G9SXA39M.uasset'
+[2025.10.14-17.08.43:148][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/3Z/CH7DHPLXRQKHRW1O154IXY
+[2025.10.14-17.08.43:148][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/CH7DHPLXRQKHRW1O154IXY7ED26B294A9FF80C4E0F4891E03EEE9E.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/3Z/CH7DHPLXRQKHRW1O154IXY.uasset'
+[2025.10.14-17.08.43:150][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/E/6Q/JE0TE5KFY9CCJ83RLC7DVN
+[2025.10.14-17.08.43:150][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/JE0TE5KFY9CCJ83RLC7DVNF11B419B49F981169A0660BCC1D942E6.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/E/6Q/JE0TE5KFY9CCJ83RLC7DVN.uasset'
+[2025.10.14-17.08.43:151][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/0/TN/K77X0XH174DEPO5CIPJQSL
+[2025.10.14-17.08.43:151][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/K77X0XH174DEPO5CIPJQSL4A9DD759430E3BF8480385B2641F93F1.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/0/TN/K77X0XH174DEPO5CIPJQSL.uasset'
+[2025.10.14-17.08.43:152][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS
+[2025.10.14-17.08.43:152][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2MWP0XV8HTWWHANIVY5NTSCD30C96A4006C02928086A85FD3BE3E0.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS.uasset'
+[2025.10.14-17.08.43:153][726]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/MK/O9ARZG51KFNKPHWD6IHJPQ
+[2025.10.14-17.08.43:153][726]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/O9ARZG51KFNKPHWD6IHJPQ13A25B514073590F32D91BAD47E1686C.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/MK/O9ARZG51KFNKPHWD6IHJPQ.uasset'
+[2025.10.14-17.08.43:160][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.428 ms (total: 786.690 ms)
+[2025.10.14-17.08.43:195][726]LogContentValidation: Display: Starting to validate 10 assets
+[2025.10.14-17.08.43:195][726]LogContentValidation: Enabled validators:
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-17.08.43:195][726]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-17.08.43:195][726]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.14-17.08.43:213][726]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: ================================================
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Total job queries 740, among them cache hits 33 (4.46%), DDC hits 348 (47.03%), Duplicates 198 (26.76%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Tracking 509 distinct input hashes that result in 329 distinct outputs (64.64%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: RAM used: 4.15 MiB of 1.60 GiB budget. Usage: 0.25%
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Shaders Compiled: 161
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Jobs assigned 161, completed 161 (100%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Average time worker was idle: 419.37 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Time job spent in pending queue: average 1.10 s, longest 6.69 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Job execution time: average 4.45 s, max 7.89 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Job life time (pending + execution): average 5.56 s, max 8.07
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Shader code size: total 1.555 MiB, numShaders 161, average 9.894 KiB, min 2.105 KiB, max 18.979 KiB
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.15 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Jobs were issued in 42 batches (only local compilation was used), average 3.83 jobs/batch
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Average processing rate: 14.44 jobs/sec
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Total thread time: 82.817 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Total thread preprocess time: 8.836 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Percentage time preprocessing: 10.67%
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Effective parallelization: 7.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.619186
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.20 sec, max 1.37 sec, min 0.97 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 1.10 sec, max 1.26 sec, min 0.70 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 0.92 sec, max 1.33 sec, min 0.55 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.55 sec, max 0.58 sec, min 0.52 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.40 sec, max 0.55 sec, min 0.32 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 20.27% of total time (compiled   14 times, average 1.20 sec, max 1.37 sec, min 0.97 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.52% of total time (compiled   14 times, average 1.10 sec, max 1.26 sec, min 0.70 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.61% of total time (compiled   14 times, average 0.92 sec, max 1.33 sec, min 0.55 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.62% of total time (compiled   14 times, average 0.39 sec, max 0.58 sec, min 0.26 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 5.66% of total time (compiled   14 times, average 0.33 sec, max 0.47 sec, min 0.25 sec)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: === Material stats ===
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Materials Translated:    163
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Material Translation Only: 0.03 s (32%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: Material Cache Hits: 20 (12%)
+[2025.10.14-17.11.13:431][470]LogShaderCompilers: Display: ================================================
+[2025.10.14-17.13.00:871][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6592.637207
+[2025.10.14-17.13.00:997][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.13.00:997][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6592.754395, Update Interval: 351.503662
+[2025.10.14-17.19.29:608][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6981.420898
+[2025.10.14-17.19.29:758][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.19.29:758][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6981.562500, Update Interval: 347.738892
+[2025.10.14-17.25.07:859][189]LogDerivedDataCache: C:/Users/karlt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-17.26.14:788][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7384.143555
+[2025.10.14-17.26.14:946][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.26.14:946][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7384.292969, Update Interval: 302.827240
+[2025.10.14-17.32.07:675][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7737.046875
+[2025.10.14-17.32.07:842][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.32.07:842][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7737.206055, Update Interval: 317.067780
+[2025.10.14-17.38.09:345][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8098.713379
+[2025.10.14-17.38.09:504][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.38.09:504][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8098.864746, Update Interval: 350.749237
+[2025.10.14-17.44.44:761][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8494.048828
+[2025.10.14-17.44.45:761][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.44.45:761][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8494.715820, Update Interval: 340.002441
+[2025.10.14-17.51.00:487][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8869.680664
+[2025.10.14-17.51.01:486][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.51.01:486][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8870.346680, Update Interval: 326.827606
+[2025.10.14-17.57.01:537][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9230.632812
+[2025.10.14-17.57.02:537][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.57.02:537][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9231.298828, Update Interval: 315.359344
+[2025.10.14-18.02.55:914][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9584.918945
+[2025.10.14-18.02.56:913][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.02.56:913][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9585.585938, Update Interval: 353.157135
+[2025.10.14-18.09.35:314][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9984.224609
+[2025.10.14-18.09.36:314][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.09.36:314][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9984.891602, Update Interval: 316.388428
+[2025.10.14-18.12.56:464][356]LogSlate: Window 'Outliner' being destroyed
+[2025.10.14-18.15.41:860][474]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10350.825195
+[2025.10.14-18.15.42:028][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.15.42:028][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10350.982422, Update Interval: 318.853119
+[2025.10.14-18.16.22:453][908]Cmd: TRANSACTION UNDO
+[2025.10.14-18.16.22:453][908]LogEditorTransaction: Undo Move Elements
+[2025.10.14-18.16.26:686][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.16.26:768][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.14-18.16.26:782][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.14-18.16.26:796][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.14-18.16.26:798][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/LN/NZ8PE6PPPF3LKKH7EKJPP5
+[2025.10.14-18.16.26:798][306]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/NZ8PE6PPPF3LKKH7EKJPP58873C82C494EB6E9DF66C8A0E8078D68.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/LN/NZ8PE6PPPF3LKKH7EKJPP5.uasset'
+[2025.10.14-18.16.26:800][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/E/D6/87XXOBU8TND829BU2GRS2A
+[2025.10.14-18.16.26:801][306]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/87XXOBU8TND829BU2GRS2A6254A9DE48F0B0DB7007F996B3B5D2BE.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/E/D6/87XXOBU8TND829BU2GRS2A.uasset'
+[2025.10.14-18.16.26:802][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/P8/OSSWC7R9J8E62IRRXOE9QZ
+[2025.10.14-18.16.26:802][306]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/OSSWC7R9J8E62IRRXOE9QZD5D1AD5E45A7C721DD763092A7FEEBA4.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/P8/OSSWC7R9J8E62IRRXOE9QZ.uasset'
+[2025.10.14-18.16.26:803][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/F5/I63EL3EB1YVEBZNRIYGSWZ
+[2025.10.14-18.16.26:803][306]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/I63EL3EB1YVEBZNRIYGSWZ1C1CB26346BA777C96D7C6955B4C793B.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/C/F5/I63EL3EB1YVEBZNRIYGSWZ.uasset'
+[2025.10.14-18.16.26:809][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.096 ms (total: 909.786 ms)
+[2025.10.14-18.16.26:856][306]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.14-18.16.26:856][306]LogContentValidation: Enabled validators:
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.16.26:856][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.16.26:856][306]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.14-18.16.26:871][306]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.14-18.17.41:622][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.17.41:622][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.17.41:623][301]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_105
+[2025.10.14-18.17.43:680][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.14-18.17.43:681][511]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.10.14-18.17.43:684][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.17.43:684][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.17.43:686][511]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664699802_2064323546
+[2025.10.14-18.18.41:800][642]Cmd: EDIT COPY
+[2025.10.14-18.18.43:405][813]Cmd: EDIT PASTE
+[2025.10.14-18.19.02:208][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.19.02:208][715]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.19.02:209][715]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_106
+[2025.10.14-18.19.03:729][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.14-18.19.03:730][873]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.14-18.19.03:733][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.19.03:733][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.19.03:735][873]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE8664699802_2144372548
+[2025.10.14-18.19.29:823][593]Cmd: EDIT COPY
+[2025.10.14-18.19.30:021][614]Cmd: EDIT PASTE
+[2025.10.14-18.21.09:265][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.14-18.21.09:267][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2N/FNCCJ6JWZK6BSP8EWMJ6FT_Auto4
+[2025.10.14-18.21.09:267][933]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/FNCCJ6JWZK6BSP8EWMJ6FT_Auto4B9163BF7448B640E2A94F9AAF765A24A.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2N/FNCCJ6JWZK6BSP8EWMJ6FT_Auto4.uasset'
+[2025.10.14-18.21.09:268][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/4/4C/36ZGMCWEJDKYIZRGGK8BFM_Auto4
+[2025.10.14-18.21.09:268][933]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/36ZGMCWEJDKYIZRGGK8BFM_Auto44889980B407D97990766F8A6E7528181.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/4/4C/36ZGMCWEJDKYIZRGGK8BFM_Auto4.uasset'
+[2025.10.14-18.21.09:270][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/6/W0/R7N5ROX909HW4P7YN7M1MO_Auto4
+[2025.10.14-18.21.09:270][933]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/R7N5ROX909HW4P7YN7M1MO_Auto40106A58645CA89D53C0E3D8FA205D8D8.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/6/W0/R7N5ROX909HW4P7YN7M1MO_Auto4.uasset'
+[2025.10.14-18.21.09:271][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/5J/D6LKGPPNQFUXFH6PBQ7FON_Auto4
+[2025.10.14-18.21.09:271][933]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/D6LKGPPNQFUXFH6PBQ7FON_Auto426038ABD4BB4F846FBFABF8F1C85DC10.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/5J/D6LKGPPNQFUXFH6PBQ7FON_Auto4.uasset'
+[2025.10.14-18.21.09:271][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Production/Levels/MAP_TestLevel' took 0.022
+[2025.10.14-18.21.09:271][933]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2025.10.14-18.21.42:850][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10711.709961
+[2025.10.14-18.21.43:005][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.21.43:005][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10711.855469, Update Interval: 334.272888
+[2025.10.14-18.23.02:944][389]Cmd: EDIT COPY
+[2025.10.14-18.23.07:207][855]Cmd: EDIT PASTE
+[2025.10.14-18.23.43:474][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.23.43:474][768]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.23.43:474][768]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_107
+[2025.10.14-18.23.50:083][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.14-18.23.50:084][472]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.10.14-18.23.50:088][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.23.50:088][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.23.50:089][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1356985727
+[2025.10.14-18.24.11:613][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.24.11:613][747]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.24.11:614][747]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_108
+[2025.10.14-18.24.13:198][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.14-18.24.13:199][908]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.14-18.24.13:203][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.24.13:203][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.24.13:204][908]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1380100728
+[2025.10.14-18.25.07:859][761]LogDerivedDataCache: C:/Users/karlt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-18.25.08:081][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.25.08:081][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.25.08:082][774]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_109
+[2025.10.14-18.25.09:114][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.14-18.25.09:115][879]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.10.14-18.25.09:118][879]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.25.09:118][879]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.25.09:120][879]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1436015729
+[2025.10.14-18.25.57:598][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.25.57:598][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.25.57:598][957]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_110
+[2025.10.14-18.26.00:024][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.14-18.26.00:025][213]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.14-18.26.00:028][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.26.00:028][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.26.00:030][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1486925730
+[2025.10.14-18.26.22:628][634]Cmd: EDIT COPY
+[2025.10.14-18.26.22:846][658]Cmd: EDIT PASTE
+[2025.10.14-18.26.22:846][658]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.10.14-18.26.53:936][978]Cmd: EDIT COPY
+[2025.10.14-18.26.54:294][ 17]Cmd: EDIT PASTE
+[2025.10.14-18.27.16:886][413]Cmd: EDIT COPY
+[2025.10.14-18.27.17:059][432]Cmd: EDIT PASTE
+[2025.10.14-18.27.57:202][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11085.926758
+[2025.10.14-18.27.57:359][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.27.57:359][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11086.072266, Update Interval: 346.684174
+[2025.10.14-18.28.14:504][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.14-18.28.14:504][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.14-18.28.14:505][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_111
+[2025.10.14-18.28.15:423][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.14-18.28.15:424][568]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.14-18.28.15:428][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.14-18.28.15:428][568]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2025.10.14-18.28.15:430][568]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1622325734
+[2025.10.14-18.29.07:821][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.29.07:821][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.29.07:821][107]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_112
+[2025.10.14-18.29.08:826][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.14-18.29.08:827][205]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.14-18.29.08:830][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.29.08:830][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.29.08:832][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646A9802_1675727735
+[2025.10.14-18.29.55:124][586]Cmd: EDIT COPY
+[2025.10.14-18.29.55:456][622]Cmd: EDIT PASTE
+[2025.10.14-18.30.00:056][101]Cmd: EDIT COPY
+[2025.10.14-18.30.00:373][135]Cmd: EDIT PASTE
+[2025.10.14-18.30.07:890][923]Cmd: EDIT COPY
+[2025.10.14-18.30.08:216][958]Cmd: EDIT PASTE
+[2025.10.14-18.30.22:050][407]Cmd: EDIT COPY
+[2025.10.14-18.30.22:328][437]Cmd: EDIT PASTE
+[2025.10.14-18.30.26:108][829]Cmd: EDIT CUT
+[2025.10.14-18.30.26:110][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.14-18.30.26:133][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.14-18.30.26:134][829]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.10.14-18.30.33:574][602]Cmd: EDIT COPY
+[2025.10.14-18.30.33:824][629]Cmd: EDIT PASTE
+[2025.10.14-18.31.34:497][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.14-18.31.34:499][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS_Auto5
+[2025.10.14-18.31.34:501][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2MWP0XV8HTWWHANIVY5NTS_Auto59C6F5A764950F518CA6A2CBDC0E54364.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS_Auto5.uasset'
+[2025.10.14-18.31.34:502][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/3R/EQHMJ4BYEMX2E7EJKV2Y78_Auto5
+[2025.10.14-18.31.34:502][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EQHMJ4BYEMX2E7EJKV2Y78_Auto57B5ADF85468818FB3983A8ADB861C337.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/3R/EQHMJ4BYEMX2E7EJKV2Y78_Auto5.uasset'
+[2025.10.14-18.31.34:503][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/9/MK/EDGJ6DWX9E85A9J3MYRWMU_Auto5
+[2025.10.14-18.31.34:503][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EDGJ6DWX9E85A9J3MYRWMU_Auto58EB51E694567EAD0E4C8BEA3AB408536.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/9/MK/EDGJ6DWX9E85A9J3MYRWMU_Auto5.uasset'
+[2025.10.14-18.31.34:504][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9C/ZCBYBOPAMKH7FFOQBMPVS5_Auto5
+[2025.10.14-18.31.34:504][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/ZCBYBOPAMKH7FFOQBMPVS5_Auto5551BB46C42292D46DB863C8D82935DA9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9C/ZCBYBOPAMKH7FFOQBMPVS5_Auto5.uasset'
+[2025.10.14-18.31.34:504][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/8E/IZP46XZLGZOKWKQ0LLKE43_Auto5
+[2025.10.14-18.31.34:504][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/IZP46XZLGZOKWKQ0LLKE43_Auto58AF987E34238636AF16C5FB179F83672.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/8E/IZP46XZLGZOKWKQ0LLKE43_Auto5.uasset'
+[2025.10.14-18.31.34:505][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/U0/RTT35C7FS84WSHAOM224L7_Auto5
+[2025.10.14-18.31.34:505][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/RTT35C7FS84WSHAOM224L7_Auto5528B39934583A5967C4755B161B05667.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/U0/RTT35C7FS84WSHAOM224L7_Auto5.uasset'
+[2025.10.14-18.31.34:506][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/M8/EJKFUS2NLBAUA1XIMYTEYL_Auto5
+[2025.10.14-18.31.34:506][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EJKFUS2NLBAUA1XIMYTEYL_Auto525D49282474B98668EE0379A8DBC1ECB.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/M8/EJKFUS2NLBAUA1XIMYTEYL_Auto5.uasset'
+[2025.10.14-18.31.34:507][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/M9/HRNL7AHZ7ED87A6K6A2YHY_Auto5
+[2025.10.14-18.31.34:507][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/HRNL7AHZ7ED87A6K6A2YHY_Auto500E37A094A7DD2390ACB8AA965F59718.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/M9/HRNL7AHZ7ED87A6K6A2YHY_Auto5.uasset'
+[2025.10.14-18.31.34:508][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/WP/2LSPWCN6UREVIRAXQZ43UZ_Auto5
+[2025.10.14-18.31.34:508][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2LSPWCN6UREVIRAXQZ43UZ_Auto5E21DDB5844510B5471CC0988A32BDD30.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/WP/2LSPWCN6UREVIRAXQZ43UZ_Auto5.uasset'
+[2025.10.14-18.31.34:509][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/DE/VKT2GJGL75TP8OGSEP8HDP_Auto5
+[2025.10.14-18.31.34:509][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/VKT2GJGL75TP8OGSEP8HDP_Auto58453FDB44692E37FAD37FD8BD99E4B13.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/DE/VKT2GJGL75TP8OGSEP8HDP_Auto5.uasset'
+[2025.10.14-18.31.34:511][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/ZC/CDA7RI6GVQLBUBRFGI0PPN_Auto5
+[2025.10.14-18.31.34:511][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/CDA7RI6GVQLBUBRFGI0PPN_Auto503E0901C4DCD1F0955F81D9551AD168E.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/ZC/CDA7RI6GVQLBUBRFGI0PPN_Auto5.uasset'
+[2025.10.14-18.31.34:512][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/X4/L8JOK0NPENW8FGBERCIRVB_Auto5
+[2025.10.14-18.31.34:512][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/L8JOK0NPENW8FGBERCIRVB_Auto591BFFD00468F9B8C4F50FD826D546AF8.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/X4/L8JOK0NPENW8FGBERCIRVB_Auto5.uasset'
+[2025.10.14-18.31.34:513][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/OI/2J1AMEJD6O6T6XPGTFL45Q_Auto5
+[2025.10.14-18.31.34:513][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2J1AMEJD6O6T6XPGTFL45Q_Auto5CADF4E7F41D5D8B2848F198B9E071AA8.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/OI/2J1AMEJD6O6T6XPGTFL45Q_Auto5.uasset'
+[2025.10.14-18.31.34:515][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/1S/USLEY2F6TY87ZGQ9TYZGJE_Auto5
+[2025.10.14-18.31.34:515][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/USLEY2F6TY87ZGQ9TYZGJE_Auto50D2B935F4A04593206669087450EFC26.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/1S/USLEY2F6TY87ZGQ9TYZGJE_Auto5.uasset'
+[2025.10.14-18.31.34:516][  5]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/5K/4QFALWFUFM6BI2VDI3U1HM_Auto5
+[2025.10.14-18.31.34:516][  5]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/4QFALWFUFM6BI2VDI3U1HM_Auto5486D19CB4BD62400FB23F3B9984B6BC1.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/5K/4QFALWFUFM6BI2VDI3U1HM_Auto5.uasset'
+[2025.10.14-18.31.34:516][  5]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Production/Levels/MAP_TestLevel' took 0.071
+[2025.10.14-18.31.34:516][  5]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2025.10.14-18.32.33:143][355]Cmd: EDIT COPY
+[2025.10.14-18.32.33:327][375]Cmd: EDIT PASTE
+[2025.10.14-18.33.34:403][301]Cmd: EDIT COPY
+[2025.10.14-18.33.34:601][323]Cmd: EDIT PASTE
+[2025.10.14-18.34.36:263][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11484.664062
+[2025.10.14-18.34.36:428][975]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.34.36:428][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11484.821289, Update Interval: 352.706696
+[2025.10.14-18.36.13:077][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.36.13:161][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.14-18.36.13:175][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-18.36.13:202][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.14-18.36.13:234][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS
+[2025.10.14-18.36.13:234][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2MWP0XV8HTWWHANIVY5NTSFD056DBD435FB9DB697B86BBE623DD7A.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/59/2MWP0XV8HTWWHANIVY5NTS.uasset'
+[2025.10.14-18.36.13:235][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2N/FNCCJ6JWZK6BSP8EWMJ6FT
+[2025.10.14-18.36.13:235][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/FNCCJ6JWZK6BSP8EWMJ6FT9A89051946C0F1C049D7B0BD22D49E41.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2N/FNCCJ6JWZK6BSP8EWMJ6FT.uasset'
+[2025.10.14-18.36.13:237][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/4/4C/36ZGMCWEJDKYIZRGGK8BFM
+[2025.10.14-18.36.13:237][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/36ZGMCWEJDKYIZRGGK8BFMC346C38A4C8FB5B557F633B019770E82.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/4/4C/36ZGMCWEJDKYIZRGGK8BFM.uasset'
+[2025.10.14-18.36.13:239][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/6/W0/R7N5ROX909HW4P7YN7M1MO
+[2025.10.14-18.36.13:239][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/R7N5ROX909HW4P7YN7M1MOCD99625C4447D2C77C2E9DA79C6F3CEC.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/6/W0/R7N5ROX909HW4P7YN7M1MO.uasset'
+[2025.10.14-18.36.13:240][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/5J/D6LKGPPNQFUXFH6PBQ7FON
+[2025.10.14-18.36.13:240][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/D6LKGPPNQFUXFH6PBQ7FONB41DC67449631D27345FCF988B0CF905.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/B/5J/D6LKGPPNQFUXFH6PBQ7FON.uasset'
+[2025.10.14-18.36.13:241][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/3R/EQHMJ4BYEMX2E7EJKV2Y78
+[2025.10.14-18.36.13:241][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EQHMJ4BYEMX2E7EJKV2Y783C23D02E4010E5B6E54EBFB28C616FE9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/C/3R/EQHMJ4BYEMX2E7EJKV2Y78.uasset'
+[2025.10.14-18.36.13:242][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/9/MK/EDGJ6DWX9E85A9J3MYRWMU
+[2025.10.14-18.36.13:242][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EDGJ6DWX9E85A9J3MYRWMUEFB0433C4D2D72EF8976D09365D5D197.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/9/MK/EDGJ6DWX9E85A9J3MYRWMU.uasset'
+[2025.10.14-18.36.13:244][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9C/ZCBYBOPAMKH7FFOQBMPVS5
+[2025.10.14-18.36.13:244][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/ZCBYBOPAMKH7FFOQBMPVS594A77C594D13AEF48E669D908B7F3AB3.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/9C/ZCBYBOPAMKH7FFOQBMPVS5.uasset'
+[2025.10.14-18.36.13:245][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/8E/IZP46XZLGZOKWKQ0LLKE43
+[2025.10.14-18.36.13:245][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/IZP46XZLGZOKWKQ0LLKE434EFCFBA6407A72C3FF3546891BADB9C7.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/8E/IZP46XZLGZOKWKQ0LLKE43.uasset'
+[2025.10.14-18.36.13:247][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/U0/RTT35C7FS84WSHAOM224L7
+[2025.10.14-18.36.13:247][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/RTT35C7FS84WSHAOM224L7D2C671174B92565C567D6CA04AD0055E.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/U0/RTT35C7FS84WSHAOM224L7.uasset'
+[2025.10.14-18.36.13:248][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/M8/EJKFUS2NLBAUA1XIMYTEYL
+[2025.10.14-18.36.13:248][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/EJKFUS2NLBAUA1XIMYTEYL9B8785D549FBB3A19748C6A249BA6651.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/M8/EJKFUS2NLBAUA1XIMYTEYL.uasset'
+[2025.10.14-18.36.13:249][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/M9/HRNL7AHZ7ED87A6K6A2YHY
+[2025.10.14-18.36.13:249][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/HRNL7AHZ7ED87A6K6A2YHY667208E54C9B62BE80EA5D95CF3689C3.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/C/M9/HRNL7AHZ7ED87A6K6A2YHY.uasset'
+[2025.10.14-18.36.13:250][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/WP/2LSPWCN6UREVIRAXQZ43UZ
+[2025.10.14-18.36.13:251][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2LSPWCN6UREVIRAXQZ43UZD1BFA75D48CF90C7E7290382AF9FFAFB.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/WP/2LSPWCN6UREVIRAXQZ43UZ.uasset'
+[2025.10.14-18.36.13:252][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/DE/VKT2GJGL75TP8OGSEP8HDP
+[2025.10.14-18.36.13:252][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/VKT2GJGL75TP8OGSEP8HDP85579EFA43F46C471D8F04B64D133A88.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/DE/VKT2GJGL75TP8OGSEP8HDP.uasset'
+[2025.10.14-18.36.13:253][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/ZC/CDA7RI6GVQLBUBRFGI0PPN
+[2025.10.14-18.36.13:253][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/CDA7RI6GVQLBUBRFGI0PPN17FB4F9548C1F9010B250EA72A5CBA0D.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/B/ZC/CDA7RI6GVQLBUBRFGI0PPN.uasset'
+[2025.10.14-18.36.13:256][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/X4/L8JOK0NPENW8FGBERCIRVB
+[2025.10.14-18.36.13:256][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/L8JOK0NPENW8FGBERCIRVBEA5AD64641E08AF80C046CAB6E57F6D4.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/X4/L8JOK0NPENW8FGBERCIRVB.uasset'
+[2025.10.14-18.36.13:257][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/OI/2J1AMEJD6O6T6XPGTFL45Q
+[2025.10.14-18.36.13:257][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/2J1AMEJD6O6T6XPGTFL45QD033FC9F48118AF5E85D1AB7759C87BE.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/OI/2J1AMEJD6O6T6XPGTFL45Q.uasset'
+[2025.10.14-18.36.13:259][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/1S/USLEY2F6TY87ZGQ9TYZGJE
+[2025.10.14-18.36.13:259][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/USLEY2F6TY87ZGQ9TYZGJEB80301C8494F5F418E04C2AE1B296FC1.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/F/1S/USLEY2F6TY87ZGQ9TYZGJE.uasset'
+[2025.10.14-18.36.13:261][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/F/5K/4QFALWFUFM6BI2VDI3U1HM
+[2025.10.14-18.36.13:261][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/4QFALWFUFM6BI2VDI3U1HMAFDE477042FA6B6EE053028F33A56865.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/F/5K/4QFALWFUFM6BI2VDI3U1HM.uasset'
+[2025.10.14-18.36.13:263][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/ZW/ZZM08YHANK3BUXQN23AFX4
+[2025.10.14-18.36.13:263][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/ZZM08YHANK3BUXQN23AFX46E22C7D142380288155F00BBC88BBD3D.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/ZW/ZZM08YHANK3BUXQN23AFX4.uasset'
+[2025.10.14-18.36.13:264][482]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/4/8C/F4Z5OBIJA0VW7HFU4BMHUM
+[2025.10.14-18.36.13:264][482]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/F4Z5OBIJA0VW7HFU4BMHUMDEA0CE304A9A72B590C0ADB7F05A1774.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/4/8C/F4Z5OBIJA0VW7HFU4BMHUM.uasset'
+[2025.10.14-18.36.13:269][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.594 ms (total: 1.10 sec)
+[2025.10.14-18.36.13:300][482]LogContentValidation: Display: Starting to validate 21 assets
+[2025.10.14-18.36.13:300][482]LogContentValidation: Enabled validators:
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.36.13:300][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.36.13:300][482]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.14-18.36.13:316][482]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.14-18.41.01:620][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.41.01:620][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.41.01:620][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_113
+[2025.10.14-18.41.05:311][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.14-18.41.05:314][ 73]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.14-18.41.05:318][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.41.05:318][ 73]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.41.05:319][ 73]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1318473919
+[2025.10.14-18.41.25:805][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11893.999023
+[2025.10.14-18.41.25:954][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.41.25:954][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11894.137695, Update Interval: 339.167450
+[2025.10.14-18.42.28:076][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.42.28:076][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.42.28:077][498]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_114
+[2025.10.14-18.42.37:210][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-18.42.37:211][511]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.10.14-18.42.37:214][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.42.37:214][511]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.42.37:216][511]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1410369920
+[2025.10.14-18.43.59:909][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.43.59:909][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.43.59:909][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_115
+[2025.10.14-18.44.02:457][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-18.44.02:458][748]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.14-18.44.02:461][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.44.02:461][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.44.02:463][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1495616921
+[2025.10.14-18.44.12:849][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.44.12:849][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.44.12:849][786]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_116
+[2025.10.14-18.44.17:619][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.10.14-18.44.17:621][298]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.10.14-18.44.17:623][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.44.17:623][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.44.17:625][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1510778922
+[2025.10.14-18.44.39:999][722]Cmd: EDIT COPY
+[2025.10.14-18.44.40:314][757]Cmd: EDIT PASTE
+[2025.10.14-18.44.45:841][332]Cmd: TRANSACTION UNDO
+[2025.10.14-18.44.45:841][332]LogEditorTransaction: Undo Move Elements
+[2025.10.14-18.45.29:568][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.45.29:570][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.45.29:570][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_117
+[2025.10.14-18.45.30:972][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.14-18.45.30:973][753]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.10.14-18.45.30:977][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.45.30:977][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.45.30:978][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1584132924
+[2025.10.14-18.46.56:048][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.46.56:048][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.46.56:048][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_118
+[2025.10.14-18.46.56:852][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.14-18.46.56:853][188]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.14-18.46.56:857][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.46.56:857][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.46.56:858][188]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1670012925
+[2025.10.14-18.47.23:516][143]Cmd: EDIT COPY
+[2025.10.14-18.47.23:874][184]Cmd: EDIT PASTE
+[2025.10.14-18.47.54:034][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12282.237305
+[2025.10.14-18.47.54:196][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.47.54:196][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12282.394531, Update Interval: 357.888733
+[2025.10.14-18.48.37:316][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.48.37:317][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.48.37:317][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_119
+[2025.10.14-18.48.37:925][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.14-18.48.37:926][540]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.14-18.48.37:931][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.48.37:931][540]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2025.10.14-18.48.37:932][540]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1771086927
+[2025.10.14-18.49.01:733][204]Cmd: TRANSACTION UNDO
+[2025.10.14-18.49.01:733][204]LogEditorTransaction: Undo Move Elements
+[2025.10.14-18.49.02:314][218]Cmd: TRANSACTION UNDO
+[2025.10.14-18.49.02:314][218]LogEditorTransaction: Undo Move Elements
+[2025.10.14-18.49.02:717][264]Cmd: TRANSACTION UNDO
+[2025.10.14-18.49.02:717][264]LogEditorTransaction: Undo Set Rotation
+[2025.10.14-18.49.03:323][333]Cmd: TRANSACTION UNDO
+[2025.10.14-18.49.03:323][333]LogEditorTransaction: Undo Place Objects
+[2025.10.14-18.49.05:463][557]Cmd: EDIT COPY
+[2025.10.14-18.49.05:689][584]Cmd: EDIT PASTE
+[2025.10.14-18.49.22:197][442]Cmd: EDIT COPY
+[2025.10.14-18.49.22:478][475]Cmd: EDIT PASTE
+[2025.10.14-18.50.01:162][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.50.01:162][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.50.01:162][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_120
+[2025.10.14-18.50.01:870][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.14-18.50.01:871][812]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.10.14-18.50.01:875][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.50.01:875][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2025.10.14-18.50.01:876][812]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1855030930
+[2025.10.14-18.50.48:882][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-18.50.48:882][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-18.50.48:882][549]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_121
+[2025.10.14-18.50.51:274][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.14-18.50.51:275][805]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.14-18.50.51:278][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-18.50.51:278][805]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2025.10.14-18.50.51:280][805]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1904433931
+[2025.10.14-18.50.57:592][501]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.14-18.50.57:594][501]LogStaticMesh: Display: Building static mesh Pillar_50x500 (Required Memory Estimate: 0.064754 MB)...
+[2025.10.14-18.50.57:595][501]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.50.57:823][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.50.57:823][513]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.50.57:823][513]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_122
+[2025.10.14-18.51.01:364][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.14-18.51.01:365][902]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.10.14-18.51.01:368][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.01:368][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.01:370][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1914523932
+[2025.10.14-18.51.04:938][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.04:939][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.04:939][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_123
+[2025.10.14-18.51.08:538][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.14-18.51.08:540][552]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.10.14-18.51.08:543][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.08:543][552]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.10.14-18.51.08:545][552]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 as actor: StaticMeshActor /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.StaticMeshActor_UAID_D85ED3AE86646B9802_1921698933
+[2025.10.14-18.51.55:857][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.51.55:943][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.10.14-18.51.55:959][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.14-18.51.55:982][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.14-18.51.55:984][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/UE/3EEG322BFA9KD60DWF1LDQ
+[2025.10.14-18.51.55:984][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/3EEG322BFA9KD60DWF1LDQ06FFA7BC4ECFB131A3AE7B8555B207AF.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/UE/3EEG322BFA9KD60DWF1LDQ.uasset'
+[2025.10.14-18.51.55:985][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/0/1V/YP1XBXDU1IINOMXP4S6KR9
+[2025.10.14-18.51.55:986][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/YP1XBXDU1IINOMXP4S6KR9D14F81DC4A96D1CDF92651B43D9B6ABF.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/0/1V/YP1XBXDU1IINOMXP4S6KR9.uasset'
+[2025.10.14-18.51.55:987][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/ZB/OLGUDTSWN2IJCSIIRKHANR
+[2025.10.14-18.51.55:987][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/OLGUDTSWN2IJCSIIRKHANRFABB687C43E97D89203097A90C36A6FA.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/ZB/OLGUDTSWN2IJCSIIRKHANR.uasset'
+[2025.10.14-18.51.55:989][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/D/L4/HKQ8K5KOYENQ38LF1TJKIT
+[2025.10.14-18.51.55:989][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/HKQ8K5KOYENQ38LF1TJKITE6383221473B54CB17F6D588492202DD.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/D/L4/HKQ8K5KOYENQ38LF1TJKIT.uasset'
+[2025.10.14-18.51.55:990][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/DX/BCMFO8M4M7G86057SMTPNN
+[2025.10.14-18.51.55:990][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BCMFO8M4M7G86057SMTPNNF8C132D146F04C5A129FC29EF9F2085F.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/DX/BCMFO8M4M7G86057SMTPNN.uasset'
+[2025.10.14-18.51.55:992][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/85/VRA2K19MASMV1948KVGIDD
+[2025.10.14-18.51.55:992][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/VRA2K19MASMV1948KVGIDDFCC3E19B44017F34ECAD1790617EF038.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/85/VRA2K19MASMV1948KVGIDD.uasset'
+[2025.10.14-18.51.55:993][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/AP/JFBD22MMARIU7F5LFYE7QC
+[2025.10.14-18.51.55:993][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/JFBD22MMARIU7F5LFYE7QCC98CFCDE428C06A6D5CF45BFD1B4FB7F.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/AP/JFBD22MMARIU7F5LFYE7QC.uasset'
+[2025.10.14-18.51.55:994][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/C/RT/YA3Y8VPQYFZYA1AQHE8KD6
+[2025.10.14-18.51.55:994][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/YA3Y8VPQYFZYA1AQHE8KD64699CE4E4A6F61532AC3AEA8500AC1DC.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/C/RT/YA3Y8VPQYFZYA1AQHE8KD6.uasset'
+[2025.10.14-18.51.55:996][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/PD/YX0C7NXVE4DSV92HT3NAC9
+[2025.10.14-18.51.55:996][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/YX0C7NXVE4DSV92HT3NAC9F24AD2204B9B09FAA5849DA49FB64165.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/PD/YX0C7NXVE4DSV92HT3NAC9.uasset'
+[2025.10.14-18.51.55:997][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2T/VDW2F3EE54TO3CUYKIZOKR
+[2025.10.14-18.51.55:997][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/VDW2F3EE54TO3CUYKIZOKR04489490443AB3C301D946B1F96AD260.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/5/2T/VDW2F3EE54TO3CUYKIZOKR.uasset'
+[2025.10.14-18.51.55:999][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/E/28/46AOBOBOM40LVOWC5C66YN
+[2025.10.14-18.51.55:999][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/46AOBOBOM40LVOWC5C66YNDAFFD826429B64BA0A4174993EF9DF93.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/E/28/46AOBOBOM40LVOWC5C66YN.uasset'
+[2025.10.14-18.51.56:001][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/A/2P/292MB375GQ03RIISO3IYEN
+[2025.10.14-18.51.56:001][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/292MB375GQ03RIISO3IYENAF7C613548A8C03ADE2B86BC10D8F26D.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/A/2P/292MB375GQ03RIISO3IYEN.uasset'
+[2025.10.14-18.51.56:002][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/6/Z3/9I24AGSTHJ9F9CGX3ZQM20
+[2025.10.14-18.51.56:002][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/9I24AGSTHJ9F9CGX3ZQM20C53DC0A34DD1126E493FCDB1D1B036E9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/6/Z3/9I24AGSTHJ9F9CGX3ZQM20.uasset'
+[2025.10.14-18.51.56:003][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/TR/870WBYCEK2RY6Q2RY87YB1
+[2025.10.14-18.51.56:003][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/870WBYCEK2RY6Q2RY87YB1F8D8CF3C4E10BB4FE06974AB4D1F8EF9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/B/TR/870WBYCEK2RY6Q2RY87YB1.uasset'
+[2025.10.14-18.51.56:005][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/PS/8CBRMB249Y0GTZ1CE3N7DO
+[2025.10.14-18.51.56:005][ 94]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/8CBRMB249Y0GTZ1CE3N7DO73485E4F4BB08C83AAEA6091D6A08D29.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/PS/8CBRMB249Y0GTZ1CE3N7DO.uasset'
+[2025.10.14-18.51.56:012][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.755 ms (total: 1.25 sec)
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: Display: Starting to validate 15 assets
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: Enabled validators:
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.51.56:051][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.51.56:052][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.51.56:052][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.51.56:052][ 94]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.14-18.51.56:068][ 94]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json

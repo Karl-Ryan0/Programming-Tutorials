@@ -5475,3 +5475,424 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.16-15.46.25:332][867]AssetCheck: /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint Validating asset
 [2025.10.16-15.46.25:332][867]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
 [2025.10.16-15.46.25:347][867]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.16-15.47.18:042][874]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.16-15.47.18:050][874]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.16-15.47.18:055][874]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.16-15.47.18:063][875]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.16-15.47.23:044][404]LogContentBrowser: Attempting asset rename: NewBlueprint -> Spikes
+[2025.10.16-15.47.23:050][404]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.16-15.47.27:908][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/Spikes.Spikes
+[2025.10.16-15.47.27:908][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.16-15.48.11:712][ 17]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.16-15.49.44:039][911]LogPSOHitching: Encountered 50 PSO creation hitches so far (9 graphics, 41 compute). 0 of them were precached.
+[2025.10.16-15.49.46:284][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.16-15.49.48:110][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.49.48:110][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.49.48:112][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_0
+[2025.10.16-15.49.48:114][311]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_0
+[2025.10.16-15.49.50:090][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.16-15.49.50:092][516]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.16-15.49.50:096][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.49.50:096][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.49.50:099][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1708236427
+[2025.10.16-15.49.50:101][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1708236427
+[2025.10.16-15.50.00:455][633]Cmd: DELETE
+[2025.10.16-15.50.00:455][633]Cmd: ACTOR DELETE
+[2025.10.16-15.50.00:456][633]LogEditorActor: Deleted Actor: Spikes_C
+[2025.10.16-15.50.00:487][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.16-15.50.00:489][633]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.16-15.50.08:018][507]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.16-15.50.09:696][653]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.16-15.50.27:046][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.16-15.50.28:792][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.50.28:792][835]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.50.28:794][835]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_1
+[2025.10.16-15.50.28:796][835]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_1
+[2025.10.16-15.50.29:351][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.16-15.50.29:354][890]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.16-15.50.29:357][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.50.29:357][890]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.50.29:359][890]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1747497428
+[2025.10.16-15.50.29:361][890]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1747497428
+[2025.10.16-15.50.35:298][528]Cmd: DELETE
+[2025.10.16-15.50.35:298][528]Cmd: ACTOR DELETE
+[2025.10.16-15.50.35:300][528]LogEditorActor: Deleted Actor: Spikes_C
+[2025.10.16-15.50.35:320][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.16-15.50.35:323][528]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.10.16-15.51.00:072][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9097.094727
+[2025.10.16-15.51.00:242][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.16-15.51.00:242][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9097.255859, Update Interval: 314.797211
+[2025.10.16-15.51.10:573][831]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.16-15.51.20:281][722]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.16-15.51.41:642][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: ================================================
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Total job queries 828, among them cache hits 119 (14.37%), DDC hits 588 (71.01%), Duplicates 72 (8.70%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Tracking 637 distinct input hashes that result in 470 distinct outputs (73.78%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: RAM used: 4.93 MiB of 1.60 GiB budget. Usage: 0.30%
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Shaders Compiled: 49
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Jobs assigned 49, completed 49 (100%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Average time worker was idle: 678.96 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Job execution time: average 0.53 s, max 1.23 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 1.32
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Shader code size: total 482.105 KiB, numShaders 52, average 9.271 KiB, min 1.727 KiB, max 15.785 KiB
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.27 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Average processing rate: 3.99 jobs/sec
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Total thread time: 18.348 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Total thread preprocess time: 9.448 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Percentage time preprocessing: 51.49%
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.124652
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 0.71 sec, max 0.75 sec, min 0.64 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 0.52 sec, max 0.58 sec, min 0.48 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.06% of total time (compiled   12 times, average 0.52 sec, max 0.58 sec, min 0.48 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.17% of total time (compiled   15 times, average 0.28 sec, max 0.33 sec, min 0.23 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.46% of total time (compiled    4 times, average 0.71 sec, max 0.75 sec, min 0.64 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.91% of total time (compiled   11 times, average 0.20 sec, max 0.23 sec, min 0.16 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display:                                                  FVelocityPS - 4.57% of total time (compiled    2 times, average 0.42 sec, max 0.43 sec, min 0.40 sec)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: === Material stats ===
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Materials Translated:    159
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: Material Cache Hits: 13 (8%)
+[2025.10.16-15.52.28:662][819]LogShaderCompilers: Display: ================================================
+[2025.10.16-15.53.59:691][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.16-15.54.06:274][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.16-15.54.07:558][234]LogSlate: Window 'Save Content' being destroyed
+[2025.10.16-15.54.07:566][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-15.54.07:615][234]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Spikes] ([2] browsable assets)...
+[2025.10.16-15.54.07:649][234]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Spikes.Spikes]
+[2025.10.16-15.54.07:649][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Spikes]
+[2025.10.16-15.54.07:653][234]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Spikes
+[2025.10.16-15.54.07:653][234]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Spikes6B90329A4696B1EDC47B9BA0C11C51BA.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/Spikes.uasset'
+[2025.10.16-15.54.07:660][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.247 ms (total: 2.34 sec)
+[2025.10.16-15.54.07:697][234]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.16-15.54.07:697][234]LogContentValidation: Enabled validators:
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-15.54.07:697][234]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-15.54.07:697][234]AssetCheck: /Game/Production/Blueprints/Spikes Validating asset
+[2025.10.16-15.54.07:711][235]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.16-15.54.17:034][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.17:034][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.17:036][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_2
+[2025.10.16-15.54.17:038][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_2
+[2025.10.16-15.54.21:527][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.16-15.54.21:528][698]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.10.16-15.54.21:532][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.21:532][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.21:534][698]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1979672429
+[2025.10.16-15.54.21:536][698]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1979672429
+[2025.10.16-15.54.22:818][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.22:818][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.22:820][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_3
+[2025.10.16-15.54.22:822][803]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_3
+[2025.10.16-15.54.25:988][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.16-15.54.25:990][ 94]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.16-15.54.25:994][ 94]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.25:994][ 94]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.25:998][ 94]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1984134430
+[2025.10.16-15.54.26:000][ 94]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1984134430
+[2025.10.16-15.54.40:032][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.40:033][582]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.40:035][582]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_4
+[2025.10.16-15.54.40:037][582]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_4
+[2025.10.16-15.54.41:665][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.16-15.54.41:667][723]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.16-15.54.41:670][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.41:670][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.54.41:674][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1999810431
+[2025.10.16-15.54.41:676][723]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_1999810431
+[2025.10.16-15.54.49:160][543]Cmd: DELETE
+[2025.10.16-15.54.49:160][543]Cmd: ACTOR DELETE
+[2025.10.16-15.54.49:162][543]LogEditorActor: Deleted Actor: Spikes_C
+[2025.10.16-15.54.49:183][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.16-15.54.49:185][543]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.10.16-15.55.09:684][819]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.16-15.55.15:074][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.16-15.55.16:225][399]LogSlate: Window 'Save Content' being destroyed
+[2025.10.16-15.55.16:233][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-15.55.16:282][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/IU/RG328WMUZ8F1K18HJVCNOH
+[2025.10.16-15.55.16:282][399]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/RG328WMUZ8F1K18HJVCNOH5B4C79874FA50762C8A06FBA1F4F678B.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/IU/RG328WMUZ8F1K18HJVCNOH.uasset'
+[2025.10.16-15.55.16:284][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/2Z/F7K8DM2I9JQ4EAI75W3U8E
+[2025.10.16-15.55.16:284][399]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/F7K8DM2I9JQ4EAI75W3U8EF866B2EB47FBF3D58016D895F1020165.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/2Z/F7K8DM2I9JQ4EAI75W3U8E.uasset'
+[2025.10.16-15.55.16:286][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/A/68/B04LLZFH5KVQWVU34TV7HE
+[2025.10.16-15.55.16:286][399]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/B04LLZFH5KVQWVU34TV7HE8B4CDBF241F330294A82F8970C04C7CA.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/A/68/B04LLZFH5KVQWVU34TV7HE.uasset'
+[2025.10.16-15.55.16:293][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.795 ms (total: 2.40 sec)
+[2025.10.16-15.55.16:346][399]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.16-15.55.16:346][399]LogContentValidation: Enabled validators:
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-15.55.16:346][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-15.55.16:346][399]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.16-15.55.16:367][399]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.16-15.55.29:348][792]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.29:348][792]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.29:350][792]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_5
+[2025.10.16-15.55.29:352][792]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_5
+[2025.10.16-15.55.30:947][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.16-15.55.30:970][930]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2025.10.16-15.55.30:973][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.30:973][930]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.30:977][930]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2049113432
+[2025.10.16-15.55.30:979][930]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2049113432
+[2025.10.16-15.55.40:155][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.40:155][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.40:157][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_6
+[2025.10.16-15.55.40:159][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_6
+[2025.10.16-15.55.42:858][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.16-15.55.42:860][126]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.16-15.55.42:864][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.42:864][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.42:867][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2061004433
+[2025.10.16-15.55.42:869][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2061004433
+[2025.10.16-15.55.49:096][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.49:096][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.49:099][751]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_7
+[2025.10.16-15.55.49:101][751]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_7
+[2025.10.16-15.55.50:910][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.16-15.55.50:912][917]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.16-15.55.50:916][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.50:916][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.50:920][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2069056434
+[2025.10.16-15.55.50:922][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2069056434
+[2025.10.16-15.55.58:592][730]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.58:593][730]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.58:595][730]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_8
+[2025.10.16-15.55.58:597][730]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_8
+[2025.10.16-15.55.59:921][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.16-15.55.59:923][840]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.16-15.55.59:926][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.59:926][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.55.59:929][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2078066435
+[2025.10.16-15.55.59:932][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2078066435
+[2025.10.16-15.56.03:155][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.03:155][175]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.03:157][175]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_9
+[2025.10.16-15.56.03:159][175]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_9
+[2025.10.16-15.56.05:319][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.16-15.56.05:321][381]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.16-15.56.05:325][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.05:325][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.05:328][381]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2083465436
+[2025.10.16-15.56.05:330][381]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2083465436
+[2025.10.16-15.56.12:763][173]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.12:763][173]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.12:765][173]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_10
+[2025.10.16-15.56.12:767][173]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_10
+[2025.10.16-15.56.14:089][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.16-15.56.14:091][289]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.10.16-15.56.14:094][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.14:094][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.14:098][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2092234437
+[2025.10.16-15.56.14:100][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2092234437
+[2025.10.16-15.56.19:313][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.19:313][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.19:315][832]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_11
+[2025.10.16-15.56.19:317][832]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_11
+[2025.10.16-15.56.20:527][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.16-15.56.20:529][923]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.10.16-15.56.20:533][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.20:533][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.20:536][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2098673438
+[2025.10.16-15.56.20:539][923]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2098673438
+[2025.10.16-15.56.21:476][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.16-15.56.21:481][ 22]LogContentBundle: [MAP_TestLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.16-15.56.21:481][ 22]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' started...
+[2025.10.16-15.56.21:482][ 22]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' took 1.384 ms (total: 45.291 ms)
+[2025.10.16-15.56.21:484][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.16-15.56.21:515][ 22]LogPlayLevel: Creating play world package: /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.16-15.56.21:525][ 22]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.16-15.56.21:527][ 22]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.015 ms (total: 77.398 ms)
+[2025.10.16-15.56.21:527][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012106s)
+[2025.10.16-15.56.21:527][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel to /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel (0.012140s)
+[2025.10.16-15.56.21:543][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.16-15.56.21:545][ 22]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_TestLevel
+[2025.10.16-15.56.21:546][ 22]LogWorldPartition: ULevel::OnLevelLoaded(MAP_TestLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.16-15.56.21:546][ 22]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.16-15.56.21:546][ 22]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.16-15.56.21:546][ 22]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.16-15.56.21:549][ 22]LogWorldPartition: Display: WorldPartition initialize took 2.601 ms (total: 594.683 ms)
+[2025.10.16-15.56.21:549][ 22]LogPlayLevel: PIE: World Init took: (0.004025s)
+[2025.10.16-15.56.21:550][ 22]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.16-15.56.21:550][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.16-15.56.21:550][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.16-15.56.21:550][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.16-15.56.21:550][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.16-15.56.21:550][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.16-15.56.21:552][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.16-15.56.21:564][ 22]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.10.16-15.56.21:564][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.16-15.56.21:564][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.16-15.56.21:564][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.16-15.56.21:565][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.10.16-15.56.21:565][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.10.16-15.56.21:566][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.10.16-15.56.21:566][ 22]LogInit: FAudioDevice initialized with ID 46.
+[2025.10.16-15.56.21:566][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.10.16-15.56.21:566][ 22]LogAudio: Display: Audio Device (ID: 46) registered with world 'MAP_TestLevel'.
+[2025.10.16-15.56.21:566][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.16-15.56.21:569][ 22]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.16-15.56.21:575][ 22]LogWorld: Bringing World /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel up for play (max tick rate 0) at 2025.10.16-16.56.21
+[2025.10.16-15.56.21:575][ 22]LogWorld: Bringing up level for play took: 0.004624
+[2025.10.16-15.56.21:577][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.10.16-15.56.21:582][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property None_ExecuteUbergraph_MAP_TestLevel_RefProperty in MAP_TestLevel_C". Node:  Bind Event to On Actor Begin Overlap Graph:  EventGraph Function:  Execute Ubergraph MAP Test Level Blueprint:  MAP_TestLevel
+[2025.10.16-15.56.21:582][ 22]PIE: Server logged in
+[2025.10.16-15.56.21:583][ 22]PIE: Play in editor total start time 0.103 seconds.
+[2025.10.16-15.56.21:625][ 23]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.16-15.56.25:114][374]LogBlueprintUserMessages: [Spikes_C_UAID_D85ED3AE8664029902_2098673438] You died!
+[2025.10.16-15.56.25:114][374]Cmd: quit
+[2025.10.16-15.56.25:115][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-15.56.25:115][374]LogWorld: BeginTearingDown for /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.16-15.56.25:155][374]LogWorld: UWorld::CleanupWorld for MAP_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.16-15.56.25:157][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-15.56.25:157][374]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel
+[2025.10.16-15.56.25:161][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.16-15.56.25:163][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.16-15.56.25:178][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.16-15.56.25:179][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.16-15.56.25:179][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2025.10.16-15.56.25:181][374]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2025.10.16-15.56.25:186][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.16-15.56.25:324][375]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.10.16-15.56.28:398][665]LogSlate: Window 'Message Log' being destroyed
+[2025.10.16-15.56.28:427][665]LogSlate: Window 'Message Log' being destroyed
+[2025.10.16-15.56.36:266][470]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.36:266][470]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.36:268][470]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_12
+[2025.10.16-15.56.36:270][470]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_12
+[2025.10.16-15.56.37:486][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.16-15.56.37:489][580]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2025.10.16-15.56.37:493][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.37:493][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.37:496][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2115633439
+[2025.10.16-15.56.37:498][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2115633439
+[2025.10.16-15.56.38:182][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.38:182][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.38:185][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_13
+[2025.10.16-15.56.38:187][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_13
+[2025.10.16-15.56.41:349][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.16-15.56.41:352][926]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2025.10.16-15.56.41:355][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.41:355][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.41:359][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2119495440
+[2025.10.16-15.56.41:361][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2119495440
+[2025.10.16-15.56.43:041][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.43:041][ 66]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.43:043][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_14
+[2025.10.16-15.56.43:045][ 66]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_14
+[2025.10.16-15.56.44:919][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.16-15.56.44:921][230]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.10.16-15.56.44:924][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.44:924][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.44:928][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2123064441
+[2025.10.16-15.56.44:930][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2123064441
+[2025.10.16-15.56.50:631][829]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.50:631][829]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.50:633][829]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_15
+[2025.10.16-15.56.50:635][829]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_15
+[2025.10.16-15.56.52:324][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.16-15.56.52:326][978]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.10.16-15.56.52:329][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.52:329][978]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.52:333][978]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2130469442
+[2025.10.16-15.56.52:335][978]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2130469442
+[2025.10.16-15.56.59:678][743]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.59:678][743]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.56.59:680][743]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_16
+[2025.10.16-15.56.59:682][743]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_16
+[2025.10.16-15.57.00:869][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.16-15.57.00:871][844]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.16-15.57.00:874][844]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.00:874][844]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.00:878][844]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2139014443
+[2025.10.16-15.57.00:880][844]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2139014443
+[2025.10.16-15.57.01:888][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.01:888][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.01:890][922]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_17
+[2025.10.16-15.57.01:892][922]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_17
+[2025.10.16-15.57.04:449][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.10.16-15.57.04:451][174]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.16-15.57.04:455][174]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.04:455][174]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.04:459][174]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2142595444
+[2025.10.16-15.57.04:461][174]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664029902_2142595444
+[2025.10.16-15.57.05:701][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9463.093750
+[2025.10.16-15.57.05:881][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.16-15.57.05:881][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9463.264648, Update Interval: 326.587738
+[2025.10.16-15.57.15:760][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.15:760][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.15:762][354]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_18
+[2025.10.16-15.57.15:764][354]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_18
+[2025.10.16-15.57.17:182][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.16-15.57.17:184][496]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.10.16-15.57.17:187][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.17:187][496]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Spikes.Spikes_C
+[2025.10.16-15.57.17:190][496]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664039902_1081585621
+[2025.10.16-15.57.17:192][496]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Spikes.Spikes as actor: Spikes_C /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel:PersistentLevel.Spikes_C_UAID_D85ED3AE8664039902_1081585621
+[2025.10.16-15.57.20:046][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.16-15.57.22:581][813]LogSlate: Window 'Save Content' being destroyed
+[2025.10.16-15.57.22:591][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.16-15.57.22:644][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/NY/A44V7K51SJ0204TZLLHN0D
+[2025.10.16-15.57.22:644][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/A44V7K51SJ0204TZLLHN0D32EEA9D74576FDA4528BE6B4099D8E01.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/B/NY/A44V7K51SJ0204TZLLHN0D.uasset'
+[2025.10.16-15.57.22:646][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/8/C5/KDIN38FS0L4ENSJ4H2SE0X
+[2025.10.16-15.57.22:646][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/KDIN38FS0L4ENSJ4H2SE0X5DA71BAB469B3879328C9D829573B2C2.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/8/C5/KDIN38FS0L4ENSJ4H2SE0X.uasset'
+[2025.10.16-15.57.22:648][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/6/M2/DBN6DH9O495IRD447FG6M0
+[2025.10.16-15.57.22:648][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/DBN6DH9O495IRD447FG6M0D59626034CF9D1D908881AB298A6FDAF.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/6/M2/DBN6DH9O495IRD447FG6M0.uasset'
+[2025.10.16-15.57.22:650][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/3/SS/6IM7WVN5KGAZ7AL2M17Q46
+[2025.10.16-15.57.22:650][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/6IM7WVN5KGAZ7AL2M17Q46B968971C4FD786E303EF02B775D7FA17.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/3/SS/6IM7WVN5KGAZ7AL2M17Q46.uasset'
+[2025.10.16-15.57.22:652][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/9E/9E79FFK79K6IHYL1FK6RF3
+[2025.10.16-15.57.22:652][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/9E79FFK79K6IHYL1FK6RF3C032E0374456DA09DA1545A86E4A99EE.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/5/9E/9E79FFK79K6IHYL1FK6RF3.uasset'
+[2025.10.16-15.57.22:654][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/E/E3/W4NY2LVSP1UY1KKWL9PZ3N
+[2025.10.16-15.57.22:654][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/W4NY2LVSP1UY1KKWL9PZ3NAEBC93384E2E8CFC121366B3CCD74892.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/E/E3/W4NY2LVSP1UY1KKWL9PZ3N.uasset'
+[2025.10.16-15.57.22:655][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/5/NE/4DBC3P0DHOKOOQ46I7631P
+[2025.10.16-15.57.22:655][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/4DBC3P0DHOKOOQ46I7631PD181A6734FC66F1223FFF092B333A396.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/5/NE/4DBC3P0DHOKOOQ46I7631P.uasset'
+[2025.10.16-15.57.22:657][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/9/LO/J7YD8IWSGGICVU22QN234I
+[2025.10.16-15.57.22:657][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/J7YD8IWSGGICVU22QN234IF0E51A87411A11FB8DC028A4BDC98BCF.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/9/LO/J7YD8IWSGGICVU22QN234I.uasset'
+[2025.10.16-15.57.22:659][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/7/AK/S081OQD2US8TWQ4N6LG1UB
+[2025.10.16-15.57.22:659][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/S081OQD2US8TWQ4N6LG1UBA403774A4E11325B8A03D1A20729BE01.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/7/AK/S081OQD2US8TWQ4N6LG1UB.uasset'
+[2025.10.16-15.57.22:661][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/D/IC/BTD2C167MBSAP1Z87IVYGH
+[2025.10.16-15.57.22:661][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BTD2C167MBSAP1Z87IVYGH17C367DB482A13E3E9FA53A7628DCCB9.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/D/IC/BTD2C167MBSAP1Z87IVYGH.uasset'
+[2025.10.16-15.57.22:663][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/2/SA/F7I7DMM5Y8IA45E0GTRUU5
+[2025.10.16-15.57.22:663][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/F7I7DMM5Y8IA45E0GTRUU5A8124B8B4491355D10075FB5529FC0E8.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/2/SA/F7I7DMM5Y8IA45E0GTRUU5.uasset'
+[2025.10.16-15.57.22:664][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/D/TH/0HPO925V6PPM79VDV5S12A
+[2025.10.16-15.57.22:664][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/0HPO925V6PPM79VDV5S12AA577FEFB4BB440CDC00BBD906511FAFD.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/D/TH/0HPO925V6PPM79VDV5S12A.uasset'
+[2025.10.16-15.57.22:665][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/B/NO/Q61W9YRF8TD76FC914NKJB
+[2025.10.16-15.57.22:665][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Q61W9YRF8TD76FC914NKJBD004ED4E4690A25A99E0659FD88C89C0.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/B/NO/Q61W9YRF8TD76FC914NKJB.uasset'
+[2025.10.16-15.57.22:667][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Production/Levels/MAP_TestLevel/1/2O/ZD270TMD8MAHAC8M0X1LJZ
+[2025.10.16-15.57.22:667][813]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/ZD270TMD8MAHAC8M0X1LJZ49CBF36C41E5AA6CC25F568B4183D9AA.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/__ExternalActors__/Production/Levels/MAP_TestLevel/1/2O/ZD270TMD8MAHAC8M0X1LJZ.uasset'
+[2025.10.16-15.57.22:674][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.837 ms (total: 2.49 sec)
+[2025.10.16-15.57.22:725][813]LogContentValidation: Display: Starting to validate 14 assets
+[2025.10.16-15.57.22:725][813]LogContentValidation: Enabled validators:
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.16-15.57.22:725][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.16-15.57.22:725][813]AssetCheck: /Game/Production/Levels/MAP_TestLevel Validating asset
+[2025.10.16-15.57.22:760][813]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SourceControl/UncontrolledChangelists.json

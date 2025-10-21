@@ -11,6 +11,15 @@ Heavily inspired by The Talos Principle
 * Display the key and door to make them obvious
 * Include spike traps to impede the player
 
+### How to Win
+1. Acquire the key
+2. Unlock the door
+3. Reach the end platform
+
+### How to Lose
+* Touch the spikes
+* Get lost and quit
+
 ## Objects
 
 ### Deisgn

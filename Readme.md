@@ -18,6 +18,8 @@ Heavily inspired by The Talos Principle
 * Floating above a platform
 * Rotates slowly to indicate importance
 
+![alt text](image-2.png)
+
 ### Spikes
 * Yellow
 * Cone shaped to indicate pointiness
@@ -25,15 +27,21 @@ Heavily inspired by The Talos Principle
 * Seemingly emerging from the ground
 * Instant death
 
+![alt text](image-1.png)
+
 ### Locked Door
 * Brick
 * Will warn player on approach
 * Disappears if player possesses the key
 
+![alt text](image.png)
+
 ### End Platform
 * Silver
 * On the ground
 * Will congratulate player on contact
+
+![alt text](image-3.png)
 
 ## Challenges
 * Player can easily get lost

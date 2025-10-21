@@ -1309,3 +1309,174 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.21-12.30.37:569][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.21-12.30.37:569][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.178802, Update Interval: 349.454651
 [2025.10.21-12.31.03:084][675]LogBlueprintUserMessages: [BP_Door_C_UAID_D85ED3AE8664FF9802_2107378894] Congratulations!!!
+[2025.10.21-12.32.18:592][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-12.32.18:592][834]LogWorld: BeginTearingDown for /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.21-12.32.18:592][834]LogWorld: UWorld::CleanupWorld for MAP_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-12.32.18:594][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-12.32.18:594][834]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel
+[2025.10.21-12.32.18:595][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-12.32.18:597][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-12.32.18:613][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-12.32.18:613][834]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.21-12.32.18:613][834]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.21-12.32.18:615][834]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.21-12.32.18:621][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.21-12.32.18:726][835]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.10.21-12.32.20:070][947]LogSlate: Window 'Message Log' being destroyed
+[2025.10.21-12.32.20:098][947]LogSlate: Window 'Message Log' being destroyed
+[2025.10.21-12.32.22:049][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.21-12.36.31:225][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 671.842529
+[2025.10.21-12.36.32:224][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-12.36.32:224][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 672.509094, Update Interval: 332.075562
+[2025.10.21-12.38.01:495][661]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.38.03:853][887]LogEditorTransaction: Undo Delete current selection
+[2025.10.21-12.38.04:738][984]LogEditorTransaction: Undo Delete current selection
+[2025.10.21-12.38.05:198][ 30]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.38.06:353][112]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.38.06:997][184]LogEditorTransaction: Undo Select None
+[2025.10.21-12.38.07:154][201]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.21-12.38.13:605][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.21-12.38.15:435][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.38.15:482][156]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Spikes] ([2] browsable assets)...
+[2025.10.21-12.38.15:482][156]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.21-12.38.15:568][156]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Spikes.Spikes]
+[2025.10.21-12.38.15:568][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Spikes]
+[2025.10.21-12.38.15:573][156]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Spikes
+[2025.10.21-12.38.15:573][156]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SpikesE0AA59AE438C12FAD620BFBAD170DF72.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/Spikes.uasset'
+[2025.10.21-12.38.15:587][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.378 ms
+[2025.10.21-12.38.15:614][156]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.38.15:614][156]LogContentValidation: Enabled validators:
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.38.15:614][156]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.38.15:614][156]AssetCheck: /Game/Production/Blueprints/Spikes Validating asset
+[2025.10.21-12.39.58:671][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.21-12.39.58:673][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Production/Levels/MAP_TestLevel' took 0.028
+[2025.10.21-12.39.58:674][170]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint] ([2] browsable assets)...
+[2025.10.21-12.39.58:674][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.21-12.39.58:794][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint.SM_AssetPlatform2_Blueprint]
+[2025.10.21-12.39.58:795][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.21-12.39.58:837][170]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint.SM_AssetPlatform2_Blueprint_C]
+[2025.10.21-12.39.58:837][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint]
+[2025.10.21-12.39.58:840][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint_Auto1
+[2025.10.21-12.39.58:840][170]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SM_AssetPlatform2_Blueprint_Auto6F00E2F84AB0FBDA670C8297157BDEB2.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint_Auto1.uasset'
+[2025.10.21-12.39.58:840][170]LogFileHelpers: Auto-saving content packages took 0.167
+[2025.10.21-12.41.34:103][548]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.41.34:471][555]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.41.34:926][592]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.41.35:500][657]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.41.37:316][871]LogEditorTransaction: Undo Move Node
+[2025.10.21-12.41.38:584][ 19]LogEditorTransaction: Undo Delete current selection
+[2025.10.21-12.41.40:111][147]LogEditorTransaction: Redo Delete current selection
+[2025.10.21-12.41.42:028][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.21-12.41.42:869][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.41.42:908][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint] ([2] browsable assets)...
+[2025.10.21-12.41.42:946][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint.SM_AssetPlatform2_Blueprint]
+[2025.10.21-12.41.42:946][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/SM_AssetPlatform2_Blueprint]
+[2025.10.21-12.41.42:950][464]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint
+[2025.10.21-12.41.42:950][464]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/SM_AssetPlatform2_BlueprintAF189D404C1FE01AFD9F3397A696F919.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/SM_AssetPlatform2_Blueprint.uasset'
+[2025.10.21-12.41.42:956][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.916 ms (total: 238.295 ms)
+[2025.10.21-12.41.43:006][464]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.41.43:006][464]LogContentValidation: Enabled validators:
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.41.43:006][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.41.43:006][464]AssetCheck: /Game/Production/Blueprints/SM_AssetPlatform2_Blueprint Validating asset
+[2025.10.21-12.41.47:048][947]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-12.41.47:048][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-12.41.47:084][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.21-12.42.11:908][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.529358
+[2025.10.21-12.42.12:058][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-12.42.12:058][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1012.671082, Update Interval: 340.963776
+[2025.10.21-12.42.20:452][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.21-12.42.20:467][828]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.21-12.42.20:492][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.21-12.42.24:873][324]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/BP_Rotator.BP_Rotator
+[2025.10.21-12.42.24:874][324]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.21-12.42.32:027][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.42.32:074][114]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/BP_Rotator] ([2] browsable assets)...
+[2025.10.21-12.42.32:108][114]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/BP_Rotator.BP_Rotator]
+[2025.10.21-12.42.32:108][114]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/BP_Rotator]
+[2025.10.21-12.42.32:117][114]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/BP_Rotator
+[2025.10.21-12.42.32:117][114]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BP_Rotator1746A19E407AE121D71AFF97204B6908.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/BP_Rotator.uasset'
+[2025.10.21-12.42.32:123][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.187 ms (total: 335.482 ms)
+[2025.10.21-12.42.32:154][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.42.32:154][114]LogContentValidation: Enabled validators:
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.42.32:154][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.42.32:154][114]AssetCheck: /Game/Production/Blueprints/BP_Rotator Validating asset
+[2025.10.21-12.44.03:089][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.44.03:137][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Production/Blueprints/BP_FirstPersonShooterCharacter] ([2] browsable assets)...
+[2025.10.21-12.44.03:137][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/BP_FirstPersonShooterCharacter]
+[2025.10.21-12.44.03:176][924]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/BP_FirstPersonShooterCharacter
+[2025.10.21-12.44.03:176][924]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BP_FirstPersonShooterCharacter01362644404FAA42DCF9EBAABA273627.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/BP_FirstPersonShooterCharacter.uasset'
+[2025.10.21-12.44.03:187][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.476 ms (total: 433.959 ms)
+[2025.10.21-12.44.03:235][924]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.44.03:235][924]LogContentValidation: Enabled validators:
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.44.03:235][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.44.03:235][924]AssetCheck: /Game/Production/Blueprints/BP_FirstPersonShooterCharacter Validating asset
+[2025.10.21-12.44.57:052][956]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-12.44.57:052][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-12.44.57:105][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.21-12.44.59:091][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.44.59:134][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/Spikes] ([2] browsable assets)...
+[2025.10.21-12.44.59:134][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Spikes]
+[2025.10.21-12.44.59:137][182]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Spikes
+[2025.10.21-12.44.59:137][182]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Spikes88300236443F05E17848A593D9489109.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/Spikes.uasset'
+[2025.10.21-12.44.59:143][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.744 ms (total: 485.703 ms)
+[2025.10.21-12.44.59:183][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.44.59:183][182]LogContentValidation: Enabled validators:
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.44.59:183][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.44.59:183][182]AssetCheck: /Game/Production/Blueprints/Spikes Validating asset
+[2025.10.21-12.45.03:098][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/BP_Door.BP_Door
+[2025.10.21-12.45.03:099][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.21-12.47.10:450][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.21-12.47.11:259][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-12.47.11:315][616]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/BP_Door] ([2] browsable assets)...
+[2025.10.21-12.47.11:352][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/BP_Door.BP_Door]
+[2025.10.21-12.47.11:352][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/BP_Door]
+[2025.10.21-12.47.11:356][616]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/BP_Door
+[2025.10.21-12.47.11:356][616]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BP_Door3AAF1F114522885762C8C09B0F1AE520.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/BP_Door.uasset'
+[2025.10.21-12.47.11:361][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.691 ms (total: 588.395 ms)
+[2025.10.21-12.47.11:395][616]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-12.47.11:395][616]LogContentValidation: Enabled validators:
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-12.47.11:395][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-12.47.11:395][616]AssetCheck: /Game/Production/Blueprints/BP_Door Validating asset
+[2025.10.21-12.48.06:562][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1367.186157
+[2025.10.21-12.48.07:561][459]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-12.48.07:561][459]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1367.852417, Update Interval: 300.119019
+[2025.10.21-12.49.59:314][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.21-12.49.59:316][793]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Production/Levels/MAP_TestLevel' took 0.024
+[2025.10.21-12.49.59:316][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/BP_Rotator] ([2] browsable assets)...
+[2025.10.21-12.49.59:316][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/BP_Rotator]
+[2025.10.21-12.49.59:321][793]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Production/Blueprints/BP_Rotator_Auto2
+[2025.10.21-12.49.59:321][793]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BP_Rotator_Auto2B5FBD1024245C588B233F7822761C842.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/Autosaves/Game/Production/Blueprints/BP_Rotator_Auto2.uasset'
+[2025.10.21-12.49.59:321][793]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.10.21-12.53.28:944][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1689.566284
+[2025.10.21-12.53.29:941][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-12.53.29:941][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.233032, Update Interval: 328.484741

@@ -1480,3 +1480,107 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.21-12.53.28:944][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1689.566284
 [2025.10.21-12.53.29:941][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.21-12.53.29:941][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1690.233032, Update Interval: 328.484741
+[2025.10.21-12.59.56:351][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2076.979004
+[2025.10.21-12.59.57:351][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-12.59.57:351][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.645996, Update Interval: 337.451721
+[2025.10.21-13.02.44:556][948]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.21-13.06.32:589][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2473.205078
+[2025.10.21-13.06.33:589][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-13.06.33:590][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2473.871582, Update Interval: 333.556946
+[2025.10.21-13.09.47:105][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.21-13.09.47:109][404]LogContentBundle: [MAP_TestLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.21-13.09.47:109][404]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' started...
+[2025.10.21-13.09.47:110][404]LogWorldPartition: Display: GenerateStreaming for 'MAP_TestLevel' took 1.333 ms (total: 3.378 ms)
+[2025.10.21-13.09.47:111][404]LogPlayLevel: [PlayLevel] Compiling BP_Rotator before play...
+[2025.10.21-13.09.47:156][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.21-13.09.47:159][404]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2025.10.21-13.09.47:159][404]LogPlayLevel: Creating play world package: /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.21-13.09.47:170][404]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.21-13.09.47:172][404]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.142 ms (total: 6.470 ms)
+[2025.10.21-13.09.47:172][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013183s)
+[2025.10.21-13.09.47:172][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel to /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel (0.013216s)
+[2025.10.21-13.09.47:187][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.21-13.09.47:189][404]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_TestLevel
+[2025.10.21-13.09.47:190][404]LogWorldPartition: ULevel::OnLevelLoaded(MAP_TestLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.21-13.09.47:190][404]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.21-13.09.47:190][404]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.21-13.09.47:190][404]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.21-13.09.47:193][404]LogWorldPartition: Display: WorldPartition initialize took 3.001 ms (total: 2.19 sec)
+[2025.10.21-13.09.47:194][404]LogPlayLevel: PIE: World Init took: (0.004607s)
+[2025.10.21-13.09.47:194][404]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.21-13.09.47:194][404]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.21-13.09.47:194][404]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.21-13.09.47:194][404]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.21-13.09.47:194][404]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.21-13.09.47:194][404]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.21-13.09.47:196][404]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.21-13.09.47:212][404]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.21-13.09.47:212][404]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.21-13.09.47:212][404]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.21-13.09.47:212][404]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.21-13.09.47:213][404]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.21-13.09.47:213][404]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.21-13.09.47:214][404]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.21-13.09.47:214][404]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.21-13.09.47:214][404]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.21-13.09.47:214][404]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_TestLevel'.
+[2025.10.21-13.09.47:214][404]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.21-13.09.47:218][404]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.21-13.09.47:223][404]LogWorld: Bringing World /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel up for play (max tick rate 0) at 2025.10.21-14.09.47
+[2025.10.21-13.09.47:223][404]LogWorld: Bringing up level for play took: 0.005284
+[2025.10.21-13.09.47:226][404]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.10.21-13.09.47:231][404]LogScript: Warning: Accessed None trying to read (real) property None_ExecuteUbergraph_MAP_TestLevel_RefProperty in MAP_TestLevel_C
+	MAP_TestLevel_C /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel:PersistentLevel.MAP_TestLevel_C_3
+	Function /Game/Production/Levels/MAP_TestLevel.MAP_TestLevel_C:ExecuteUbergraph_MAP_TestLevel:00A7
+[2025.10.21-13.09.47:231][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property None_ExecuteUbergraph_MAP_TestLevel_RefProperty in MAP_TestLevel_C". Node:  Bind Event to On Actor Begin Overlap Graph:  EventGraph Function:  Execute Ubergraph MAP Test Level Blueprint:  MAP_TestLevel
+[2025.10.21-13.09.47:232][404]PIE: Server logged in
+[2025.10.21-13.09.47:233][404]PIE: Play in editor total start time 0.125 seconds.
+[2025.10.21-13.09.47:270][405]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-13.11.03:427][767]LogBlueprintUserMessages: [BP_Rotator_C_UAID_D85ED3AE8664FC9802_1715301363] You have found the key!
+[2025.10.21-13.11.50:737][455]LogBlueprintUserMessages: [BP_Door_C_UAID_D85ED3AE8664FF9802_2107378894] Congratulations!!!
+[2025.10.21-13.11.55:706][947]LogBlueprintUserMessages: [SM_AssetPlatform2_Blueprint_C_UAID_D85ED3AE8664029902_1085189425] You Win!
+[2025.10.21-13.11.58:703][249]Cmd: quit
+[2025.10.21-13.11.58:704][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-13.11.58:704][249]LogWorld: BeginTearingDown for /Game/Production/Levels/UEDPIE_0_MAP_TestLevel
+[2025.10.21-13.11.58:730][249]LogWorld: UWorld::CleanupWorld for MAP_TestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-13.11.58:732][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-13.11.58:732][249]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Production/Levels/UEDPIE_0_MAP_TestLevel.MAP_TestLevel
+[2025.10.21-13.11.58:733][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-13.11.58:736][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-13.11.58:750][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-13.11.58:751][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.21-13.11.58:751][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.21-13.11.58:752][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.21-13.11.58:759][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.21-13.11.58:897][250]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.10.21-13.13.05:225][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2865.834717
+[2025.10.21-13.13.05:399][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-13.13.05:399][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2866.002197, Update Interval: 339.790039
+[2025.10.21-13.13.08:749][ 76]LogRenderer: Using fallback RTPSO
+[2025.10.21-13.13.39:754][337]LogSlate: Window 'Message Log' being destroyed
+[2025.10.21-13.13.39:787][337]LogSlate: Window 'Message Log' being destroyed
+[2025.10.21-13.14.37:114][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.21-13.14.38:395][422]LogSlate: Window 'Save Content' being destroyed
+[2025.10.21-13.14.38:403][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-13.14.38:457][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/BP_Rotator] ([2] browsable assets)...
+[2025.10.21-13.14.38:457][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/BP_Rotator]
+[2025.10.21-13.14.38:461][422]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/BP_Rotator
+[2025.10.21-13.14.38:461][422]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Saved/BP_RotatorA3A2E8354D49B7BCC172AB92F21A105A.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/MyProject/Programming-Tutorials/MyProject/Content/Production/Blueprints/BP_Rotator.uasset'
+[2025.10.21-13.14.38:478][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.704 ms (total: 664.099 ms)
+[2025.10.21-13.14.38:524][422]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-13.14.38:525][422]LogContentValidation: Enabled validators:
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-13.14.38:525][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-13.14.38:525][422]AssetCheck: /Game/Production/Blueprints/BP_Rotator Validating asset

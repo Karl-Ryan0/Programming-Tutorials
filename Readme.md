@@ -11,6 +11,12 @@ Heavily inspired by The Talos Principle
 * Display the key and door to make them obvious
 * Include spike traps to impede the player
 
+## Objects
+
+### Deisgn
+A relatively simple map made complicated by the lack of a minimap.
+
+![Top-Down Map](image-9.png)
 
 ### Key
 * Upside down pyramid
